@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chupes\\source\\repos\\TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|c:\\users\\chupes\\source\\repos\\tdd\\cagateriatest\\tetstmaquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|solutionrelative:cagateriatest\\tetstmaquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|c:\\users\\chupes\\source\\repos\\tdd\\cagateriatest\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|solutionrelative:cagateriatest\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|c:\\users\\chupes\\source\\repos\\tdd\\tdd\\models\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|solutionrelative:tdd\\models\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|c:\\users\\chupes\\source\\repos\\tdd\\tdd\\models\\maquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|solutionrelative:tdd\\models\\maquinacafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|c:\\users\\chupes\\source\\repos\\tdd\\tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|solutionrelative:tdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|c:\\users\\chupes\\source\\repos\\tdd\\tdd\\models\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|solutionrelative:tdd\\models\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|c:\\users\\chupes\\source\\repos\\tdd\\cagateriatest\\testcafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|solutionrelative:cagateriatest\\testcafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|c:\\users\\chupes\\source\\repos\\tdd\\tdd\\models\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|solutionrelative:tdd\\models\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|c:\\users\\chupes\\source\\repos\\tdd\\cagateriatest\\cafeteriatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|solutionrelative:cagateriatest\\cafeteriatest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|c:\\users\\chupes\\source\\repos\\tdd\\cagateriatest\\testazucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C60494-D451-4A97-9458-0DFE7FAE0A28}|CagateriaTEst\\CafeteriaTest.csproj|solutionrelative:cagateriatest\\testazucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|c:\\users\\chupes\\source\\repos\\tdd\\tdd\\tdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D5DD301-3D3D-4288-948C-35F22E36F374}|TDD\\TDD.csproj|solutionrelative:tdd\\tdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cafetera.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\Cafetera.cs",
+              "RelativeDocumentMoniker": "TDD\\Models\\Cafetera.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\Cafetera.cs",
+              "RelativeToolTip": "TDD\\Models\\Cafetera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T21:12:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestCafetera.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TestCafetera.cs",
+              "RelativeDocumentMoniker": "CagateriaTEst\\TestCafetera.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TestCafetera.cs",
+              "RelativeToolTip": "CagateriaTEst\\TestCafetera.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwDAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:56:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestAzucarero.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TestAzucarero.cs",
+              "RelativeDocumentMoniker": "CagateriaTEst\\TestAzucarero.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TestAzucarero.cs",
+              "RelativeToolTip": "CagateriaTEst\\TestAzucarero.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:50:29.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vaso.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\Vaso.cs",
+              "RelativeDocumentMoniker": "TDD\\Models\\Vaso.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\Vaso.cs",
+              "RelativeToolTip": "TDD\\Models\\Vaso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:41:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TetstMaquinaCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TetstMaquinaCafe.cs",
+              "RelativeDocumentMoniker": "CagateriaTEst\\TetstMaquinaCafe.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TetstMaquinaCafe.cs",
+              "RelativeToolTip": "CagateriaTEst\\TetstMaquinaCafe.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:33:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CafeteriaTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\CafeteriaTest.csproj",
+              "RelativeDocumentMoniker": "CagateriaTEst\\CafeteriaTest.csproj",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\CafeteriaTest.csproj",
+              "RelativeToolTip": "CagateriaTEst\\CafeteriaTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T19:44:52.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestVaso.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TestVaso.cs",
+              "RelativeDocumentMoniker": "CagateriaTEst\\TestVaso.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\CagateriaTEst\\TestVaso.cs",
+              "RelativeToolTip": "CagateriaTEst\\TestVaso.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:44:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TDD.csproj",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\TDD.csproj",
+              "RelativeDocumentMoniker": "TDD\\TDD.csproj",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\TDD.csproj",
+              "RelativeToolTip": "TDD\\TDD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T19:29:34.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Azucarero.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\Azucarero.cs",
+              "RelativeDocumentMoniker": "TDD\\Models\\Azucarero.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\Azucarero.cs",
+              "RelativeToolTip": "TDD\\Models\\Azucarero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:24:44.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Program.cs",
+              "RelativeDocumentMoniker": "TDD\\Program.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Program.cs",
+              "RelativeToolTip": "TDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:22:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaquinaCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\MaquinaCafe.cs",
+              "RelativeDocumentMoniker": "TDD\\Models\\MaquinaCafe.cs",
+              "ToolTip": "C:\\Users\\Chupes\\source\\repos\\TDD\\TDD\\Models\\MaquinaCafe.cs",
+              "RelativeToolTip": "TDD\\Models\\MaquinaCafe.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:28:51.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
